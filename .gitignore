@@ -108,3 +108,13 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/python
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.idea/
