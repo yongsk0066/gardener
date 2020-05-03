@@ -1,0 +1,24 @@
+{
+  "name": "gardener",
+  "version": "1.0.0",
+  "description": "auto check and fill contribution graph\r using google assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yongsk0066/gardener.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yongsk0066/gardener/issues"
+  },
+  "homepage": "https://github.com/yongsk0066/gardener#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
